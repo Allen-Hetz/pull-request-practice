@@ -90,7 +90,7 @@ Make sure you are viewing your fork, not the instructor’s original repository.
 5. Run:
 
 ```bash
-git clone [URL-TO-YOUR-FORK](https://github.com/spilman6/pull-request-practice.git)
+git clone [[URL-TO-YOUR-FORK](https://github.com/spilman6/pull-request-practice.git)](https://github.com/spilman6/pull-request-practice.git)
 ```
 
 Move into the repository:
